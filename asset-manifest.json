@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/jaiah-react-portfolio-final/static/css/main.6b353719.css",
+    "main.js": "/jaiah-react-portfolio-final/static/js/main.aaf4e50b.js",
+    "static/media/weather-api.png": "/jaiah-react-portfolio-final/static/media/weather-api.2a92da370ad251564c74.png",
+    "static/media/logoamend.png": "/jaiah-react-portfolio-final/static/media/logoamend.bb5f9d8069c8f3351f2a.png",
+    "static/media/litmus.png": "/jaiah-react-portfolio-final/static/media/litmus.5b20a6734c33b647cfd6.png",
+    "static/media/jaiah.jpeg": "/jaiah-react-portfolio-final/static/media/jaiah.514ea702bc9139ca6a00.jpeg",
+    "static/media/aem.png": "/jaiah-react-portfolio-final/static/media/aem.d98d116d6f9bcd9725e7.png",
+    "static/media/acca.png": "/jaiah-react-portfolio-final/static/media/acca.8c7f990eb5efd534c3ed.png",
+    "static/media/cheetah.png": "/jaiah-react-portfolio-final/static/media/cheetah.9789431906b739d941a7.png",
+    "static/media/react.png": "/jaiah-react-portfolio-final/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/halfords.jpg": "/jaiah-react-portfolio-final/static/media/halfords.54a622ee29eb77b72351.jpg",
+    "static/media/node.png": "/jaiah-react-portfolio-final/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/jlogo.png": "/jaiah-react-portfolio-final/static/media/jlogo.21639e845a38cf0d586a.png",
+    "static/media/html.png": "/jaiah-react-portfolio-final/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/css.png": "/jaiah-react-portfolio-final/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/klaviyo.png": "/jaiah-react-portfolio-final/static/media/klaviyo.05d542745bf2ed4277ef.png",
+    "static/media/javascript.png": "/jaiah-react-portfolio-final/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "static/media/shopify.png": "/jaiah-react-portfolio-final/static/media/shopify.1e72e870cf27e6e5ea8a.png",
+    "index.html": "/jaiah-react-portfolio-final/index.html",
+    "main.6b353719.css.map": "/jaiah-react-portfolio-final/static/css/main.6b353719.css.map",
+    "main.aaf4e50b.js.map": "/jaiah-react-portfolio-final/static/js/main.aaf4e50b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b353719.css",
+    "static/js/main.aaf4e50b.js"
+  ]
+}
